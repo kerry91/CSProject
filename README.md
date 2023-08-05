@@ -1,2 +1,2 @@
 A simple console guessing game 
-![Guessing game](https://github.com/kerry91/csclass/assets/36702039/b01867d8-45fa-4623-b691-ba7d5272602a)
+[Coursera X3BLTJX8GDQF.pdf](https://github.com/kerry91/csclass/files/12267452/Coursera.X3BLTJX8GDQF.pdf)
