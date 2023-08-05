@@ -1,0 +1,15 @@
+/home/kerry91warnes/CSProject/bin/Debug/net7.0/CSProject
+/home/kerry91warnes/CSProject/bin/Debug/net7.0/CSProject.deps.json
+/home/kerry91warnes/CSProject/bin/Debug/net7.0/CSProject.runtimeconfig.json
+/home/kerry91warnes/CSProject/bin/Debug/net7.0/CSProject.dll
+/home/kerry91warnes/CSProject/bin/Debug/net7.0/CSProject.pdb
+/home/kerry91warnes/CSProject/obj/Debug/net7.0/CSProject.csproj.AssemblyReference.cache
+/home/kerry91warnes/CSProject/obj/Debug/net7.0/CSProject.GeneratedMSBuildEditorConfig.editorconfig
+/home/kerry91warnes/CSProject/obj/Debug/net7.0/CSProject.AssemblyInfoInputs.cache
+/home/kerry91warnes/CSProject/obj/Debug/net7.0/CSProject.AssemblyInfo.cs
+/home/kerry91warnes/CSProject/obj/Debug/net7.0/CSProject.csproj.CoreCompileInputs.cache
+/home/kerry91warnes/CSProject/obj/Debug/net7.0/CSProject.dll
+/home/kerry91warnes/CSProject/obj/Debug/net7.0/refint/CSProject.dll
+/home/kerry91warnes/CSProject/obj/Debug/net7.0/CSProject.pdb
+/home/kerry91warnes/CSProject/obj/Debug/net7.0/CSProject.genruntimeconfig.cache
+/home/kerry91warnes/CSProject/obj/Debug/net7.0/ref/CSProject.dll
